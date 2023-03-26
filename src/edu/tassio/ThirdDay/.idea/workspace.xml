@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96eff060-f5b6-478c-8f25-a8a5ab37450e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-loop-arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex10_ArrayMultidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1_NameAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3_HighestGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_PairAndOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_RandomNumbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NWRQwVKnTcIhln9amGTeEuwRoQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ex10_ArrayMultidimensional">
+    <configuration name="Ex10_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10_ArrayMultidimensional" />
+      <module name="Exercicios-loop-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_Factorial" />
+      <module name="Exercicios-loop-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7_ReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_ReverseOrder" />
+      <module name="Exercicios-loop-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8_Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8_Consonants" />
+      <module name="Exercicios-loop-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9_RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9_RandomNumbers" />
+      <module name="Exercicios-loop-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex10_ArrayMultidimensional" />
+        <item itemvalue="Application.Ex9_RandomNumbers" />
+        <item itemvalue="Application.Ex8_Consonants" />
+        <item itemvalue="Application.Ex7_ReverseOrder" />
+        <item itemvalue="Application.Ex6_Factorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96eff060-f5b6-478c-8f25-a8a5ab37450e" name="Changes" comment="" />
+      <created>1679777842794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679777842794</updated>
+    </task>
+    <servers />
+  </component>
+</project>
